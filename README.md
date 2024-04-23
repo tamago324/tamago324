@@ -7,3 +7,4 @@
 * [nowt36lp](https://github.com/tamago324/nowt36lp)
 * [split mini](https://github.com/tamago324/split-mini)
 * [gku34](https://github.com/tamago324/gku34)
+* [haqua34](https://github.com/tamago324/haqua34)
